@@ -1,0 +1,17 @@
+#first {
+	letter-spacing: 5px;
+	font-weight: normal;
+	margin-bottom: -16px;
+}
+
+.article {
+	color: red;
+}
+
+#dignity {
+	font-style: italic;
+}
+
+#right {
+	text-decoration: underline;
+}
